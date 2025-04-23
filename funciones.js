@@ -6,6 +6,10 @@ const resta = (numero1,numero2) => {
     console.log("la resta es",numero1-numero2)
 }
 
+const multiplicacion = (numero1,numero2) => {
+    console.log("la multiplicacion es",numero1*numero2)
+}
+
 module.exports = {
-    suma,resta
+    suma,resta,multiplicacion
 };
