@@ -16,6 +16,7 @@ estado()
 
 adios()
 despedida()
+console.log("error.....")
 
 
 
