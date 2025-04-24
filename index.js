@@ -19,7 +19,6 @@ bienvenida2()
 
 adios()
 despedida()
-console.log("error.....")
 
 
 
