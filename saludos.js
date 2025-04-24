@@ -10,4 +10,8 @@ const bienvenida = () => {
     console.log("holaaaaaaaa me alegra verte :)")
 }
 
-module.exports = {hola,estado,bienvenida}
+const bienvenida2 = () => {
+    console.log("bienvenidoooo otra vez :)")
+}
+
+module.exports = {hola,estado,bienvenida,bienvenida2}
