@@ -11,15 +11,16 @@ multiplicacion(9,9)
 console.log("vamos a ver la division")
 division(8,4)
 
+console.log("vamos a ver los saludos ...............")
 hola()
 estado()
 bienvenida()
 bienvenida2()
 
-
+console.log("vamos a ver las despedidas ...............")
 adios()
 despedida()
-console.log("error.....")
+
 
 
 
