@@ -1,3 +1,4 @@
+const { adios, despedida } = require('./despedidas');
 const { suma,resta,multiplicacion, division } = require('./funciones'); // sin extensión .js, así está bien para CommonJS
 const {hola,estado, bienvenida, bienvenida2} = require('./saludos')
 
@@ -14,3 +15,12 @@ hola()
 estado()
 bienvenida()
 bienvenida2()
+
+
+adios()
+despedida()
+console.log("error.....")
+
+
+
+
