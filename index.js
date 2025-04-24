@@ -6,6 +6,7 @@ const { bienvenida22, hola2, estado2, bienvenida21 } = require('./saludos2');
 
 adicionales()
 
+<<<<<<< HEAD
 // console.log("vamos a ver la suma");
 // suma(1,2)
 // console.log("vamos a ver la resta")
@@ -28,6 +29,18 @@ adicionales()
 
 // adios()
 // despedida()
+=======
+console.log("vamos a ver los saludos ...............")
+hola()
+estado()
+bienvenida()
+bienvenida2()
+
+console.log("vamos a ver las despedidas ...............")
+adios()
+despedida()
+
+>>>>>>> b576cbabdde2ff53918b962f7c4034613d2a0a08
 
 
 
