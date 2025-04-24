@@ -6,4 +6,8 @@ const estado = () => {
     console.log("como esta todo ......... ?")
 }
 
-module.exports = {hola,estado}
+const bienvenida = () => {
+    console.log("holaaaaaaaa me alegra verte :)")
+}
+
+module.exports = {hola,estado,bienvenida}

@@ -1,5 +1,5 @@
 const { suma,resta,multiplicacion, division } = require('./funciones'); // sin extensión .js, así está bien para CommonJS
-const {hola,estado} = require('./saludos')
+const {hola,estado, bienvenida} = require('./saludos')
 
 console.log("vamos a ver la suma");
 suma(1,2)
@@ -12,3 +12,4 @@ division(8,4)
 
 hola()
 estado()
+bienvenida()
