@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+console.log("primer inicio")
+=======
 const { adios, despedida } = require('./despedidas');
 const { suma,resta,multiplicacion, division } = require('./funciones'); // sin extensión .js, así está bien para CommonJS
 const { adicionales } = require('./funcionesAdicionales');
@@ -45,3 +48,4 @@ despedida()
 
 
 
+>>>>>>> f52a0f2de13342a2a5a24cef4334c317faf06864
