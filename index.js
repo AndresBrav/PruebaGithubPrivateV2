@@ -1,3 +1,4 @@
+// Esta es la version 1 del proyecto con operaciones basicas 
 const { suma } = require("./operaciones/suma")
 const { resta } = require("./operaciones/resta")
 const { multi } = require("./operaciones/multiplicacion")
