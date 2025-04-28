@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Esta es la version 1 del proyecto con operaciones basicas 
 const { suma } = require("./operaciones/suma")
 const { resta } = require("./operaciones/resta")
@@ -20,6 +19,4 @@ console.log("la raiz cuadrada es ",raiz(9))
 console.log("la potencia es",potencia(6,2))
 console.log("el logaritmo natural es",logaritmo(10))
 console.log("el logaritmo de base 2 es",logB2(8))
-=======
-console.log("primer inicio")
->>>>>>> 0e3de435e2a3194222a59589631dcbb75f4df9e2
+
