@@ -8,6 +8,7 @@ const { potencia } = require("./operaciones2/potencia")
 const { logaritmo } = require("./operaciones2/logaritmoNatural")
 const {logB2} = require('./operaciones2/logaritmoBase2')
 const { redondearNumero } = require("./operaciones3/redondeo")
+const { numeroAleatorio } = require("./operaciones3/aleatorio")
 //arreglamos los conflictos
 // agregamos la resta 
 console.log("la suma es: ",suma(7,8))
@@ -23,4 +24,5 @@ console.log("el logaritmo de base 2 es",logB2(8))
 
 //operaciones 3
 console.log("el redondeo es ",redondearNumero(81.6))
+console.log("el numero aleatorio es ",numeroAleatorio())
 
